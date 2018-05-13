@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/ahmedhhw/matrixify.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/ahmedhhw/matrixify" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/GitProjects" />
   </component>
 </application>
